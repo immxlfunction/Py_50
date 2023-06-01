@@ -1,8 +1,8 @@
 {
     "onlybugs@outlook.in": {
-        "Last check": "2023-05-09",
-        "Today's points": 450,
-        "Points": 4603
+        "Last check": "2023-06-01",
+        "Today's points": 665,
+        "Points": 1725
     },
-    "Elapsed time": "00:11:07"
+    "Elapsed time": "00:19:36"
 }
